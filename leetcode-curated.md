@@ -11,11 +11,11 @@ Essentially, this is a curation of questions that I personally use to prepare fo
 Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to interview once and apply for multiple top tech companies!
 
 ## Arrays/Strings
-- [ ] [Maximum subarray](https://leetcode.com/problems/maximum-subarray/) (easy)
-- [ ] [Merge sorted array](https://leetcode.com/problems/merge-sorted-array) (easy)
-- [ ] [Reverse string](https://leetcode.com/problems/reverse-string/) (easy)
-- [ ] [3sum](https://leetcode.com/problems/3sum/) (medium)
-- [ ] [Decode string](https://leetcode.com/problems/decode-string/) (medium)
+- [x] [Maximum subarray](https://leetcode.com/problems/maximum-subarray/) (easy)
+- [x] [Merge sorted array](https://leetcode.com/problems/merge-sorted-array) (easy)
+- [x] [Reverse string](https://leetcode.com/problems/reverse-string/) (easy)
+- [x] [3sum](https://leetcode.com/problems/3sum/) (medium)
+- [x] [Decode string](https://leetcode.com/problems/decode-string/) (medium)
 - [ ] [Find first and last position of element in sorted array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) (medium)
 - [ ] [Find K pairs with smallest sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) (medium)
 - [ ] [Kth largest element in an array](https://leetcode.com/problems/kth-largest-element-in-an-array/) (medium)
@@ -48,7 +48,7 @@ Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to inte
 - [ ] [Non-overlapping intervals](https://leetcode.com/problems/non-overlapping-intervals/) (medium)
 - [ ] [Insert interval](https://leetcode.com/problems/insert-interval/) (hard)
 ### Heaps/Priority Queues
-- [ ] [Maximize sum of array after K negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/) (easy)
+- [x] [Maximize sum of array after K negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/) (easy)
 - [ ] [Find K pairs with smallest sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) (medium)
 - [ ] [Kth largest element in an array](https://leetcode.com/problems/kth-largest-element-in-an-array/) (medium)
 - [ ] [Task scheduler](https://leetcode.com/problems/task-scheduler/) (medium)
