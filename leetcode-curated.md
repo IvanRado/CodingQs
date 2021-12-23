@@ -54,16 +54,16 @@ Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to inte
 - [ ] [Task scheduler](https://leetcode.com/problems/task-scheduler/) (medium)
 - [ ] [Find median from data stream](https://leetcode.com/problems/find-median-from-data-stream/) (hard)
 ## Linked Lists/Deques
-- [ ] [Intersection of two linked lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) (easy)
-- [ ] [Linked list cycle](https://leetcode.com/problems/linked-list-cycle) (easy)
-- [ ] [Merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists) (easy)
-- [ ] [Palindrome linked list](https://leetcode.com/problems/palindrome-linked-list/) (easy)
-- [ ] [Remove duplicates from sorted list](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) (easy)
-- [ ] [Reverse linked list](https://leetcode.com/problems/reverse-linked-list/) (easy)
-- [ ] [Odd even linked list](https://leetcode.com/problems/odd-even-linked-list/) (medium)
-- [ ] [Reverse linked list II](https://leetcode.com/problems/reverse-linked-list-ii/) (medium)
-- [ ] [Rotate list](https://leetcode.com/problems/rotate-list/) (medium)
-- [ ] [Merge k sorted lists](https://leetcode.com/problems/merge-k-sorted-lists/) (hard)
+- [x] [Intersection of two linked lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) (easy)
+- [x] [Linked list cycle](https://leetcode.com/problems/linked-list-cycle) (easy)
+- [x] [Merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists) (easy)
+- [x] [Palindrome linked list](https://leetcode.com/problems/palindrome-linked-list/) (easy)
+- [x] [Remove duplicates from sorted list](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) (easy)
+- [x] [Reverse linked list](https://leetcode.com/problems/reverse-linked-list/) (easy)
+- [x] [Odd even linked list](https://leetcode.com/problems/odd-even-linked-list/) (medium)
+- [x] [Reverse linked list II](https://leetcode.com/problems/reverse-linked-list-ii/) (medium)
+- [x] [Rotate list](https://leetcode.com/problems/rotate-list/) (medium)
+- [x] [Merge k sorted lists](https://leetcode.com/problems/merge-k-sorted-lists/) (hard)
 ## Trees
 - [ ] [Balanced binary tree](https://leetcode.com/problems/balanced-binary-tree/) (easy)
 - [ ] [Convert sorted array to binary search tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) (easy)
@@ -89,7 +89,7 @@ Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to inte
 - [ ] [Validate binary search tree](https://leetcode.com/problems/validate-binary-search-tree/) (medium)
 - [ ] [Binary tree maximum path sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) (hard)
 ## Graphs
-- [ ] [Flood fill](https://leetcode.com/problems/flood-fill/) (easy)
+- [x] [Flood fill](https://leetcode.com/problems/flood-fill/) (easy)
 - [ ] [Accounts merge](https://leetcode.com/problems/accounts-merge) (medium)
 - [ ] [Cheapest flights within k stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) (medium)
 - [ ] [Course schedule](https://leetcode.com/problems/course-schedule/) (medium)
@@ -108,7 +108,7 @@ Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to inte
 - [ ] [Interleaving string](https://leetcode.com/problems/interleaving-string/) (hard)
 - [ ] [Remove invalid parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) (hard)
 ## Dynamic Programming
-- [ ] [Climbing stairs](https://leetcode.com/problems/climbing-stairs/) (easy)
+- [x] [Climbing stairs](https://leetcode.com/problems/climbing-stairs/) (easy)
 - [ ] [Decode ways](https://leetcode.com/problems/decode-ways/) (medium)
 - [ ] [Jump game](https://leetcode.com/problems/jump-game/) (medium)
 - [ ] [Longest increasing subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) (medium)
@@ -120,8 +120,8 @@ Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to inte
 - [ ] [Edit distance](https://leetcode.com/problems/edit-distance/) (hard)
 - [ ] [Wildcard matching](https://leetcode.com/problems/wildcard-matching/) (hard)
 ## Design & Implementation
-- [ ] [Implement queue using stacks](https://leetcode.com/problems/implement-queue-using-stacks/) (easy)
-- [ ] [Min stack](https://leetcode.com/problems/min-stack/) (easy)
+- [x] [Implement queue using stacks](https://leetcode.com/problems/implement-queue-using-stacks/) (easy)
+- [x] [Min stack](https://leetcode.com/problems/min-stack/) (easy)
 - [ ] [Binary search tree iterator](https://leetcode.com/problems/binary-search-tree-iterator/) (medium) - [ ]- [ ](implementation should be lazy)- [ ]- [ ]
 - [ ] [Flatten nested list iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) (medium) - [ ]- [ ](implementation should be lazy)- [ ]- [ ]
 - [ ] [Implement trie (prefix tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) (medium)
