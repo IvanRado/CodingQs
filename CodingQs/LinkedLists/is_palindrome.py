@@ -46,7 +46,7 @@ class Solution2:
         # So we need two pointers
         left, right = head, prev
 
-        # Traverse in the rever direction
+        # Traverse in the reverse direction
         while right:
             if left.val != right.val:
                 return False
